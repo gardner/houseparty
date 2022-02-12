@@ -5,7 +5,13 @@
   "description": "House Party",
   "author": "Gardner Bickford",
   "keywords": [
-    "gatsby"
+    "housing",
+    "party",
+    "house",
+    "politics",
+    "elections",
+    "voting",
+    "issues"
   ],
   "scripts": {
     "develop": "gatsby develop",
